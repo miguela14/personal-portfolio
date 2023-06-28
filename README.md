@@ -12,4 +12,4 @@ Short discription explaining the what, motivation, why, and how of my project:
 
 ![](assets\images\personal-portfolio.PNG)
 
-[https://github.com/miguela14/personal-portfolio]
+[https://miguela14.github.io/personal-portfolio/]
