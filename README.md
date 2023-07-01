@@ -10,6 +10,6 @@ Short discription explaining the what, motivation, why, and how of my project:
 
 - By creating code dealing with pure HTML as well as Css.
 
-![](assets\images\personal-portfolio.PNG) 
+![Screenshot](./assets/images/personal-portfolio.PNG)
 
 [https://miguela14.github.io/personal-portfolio/]
